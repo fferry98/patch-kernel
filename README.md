@@ -1,2 +1,4 @@
-https://github.com/KernelSU-Next/KernelSU-Next
-https://t.me/ksunext
+SUMBER:
+1. https://github.com/KernelSU-Next/KernelSU-Next
+
+2. https://t.me/ksunext
